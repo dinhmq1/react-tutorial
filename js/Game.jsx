@@ -58,8 +58,6 @@ class Game extends React.Component {
   }
 }
 
-// ========================================
-
 render(
   <Game />,
   document.getElementById('root')
